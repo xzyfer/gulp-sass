@@ -28,15 +28,15 @@
     "vinyl-sourcemaps-apply": "^0.2.0"
   },
   "devDependencies": {
-    "autoprefixer-core": "^5.2.1",
+    "autoprefixer-core": "^6.0.1",
     "eslint": "^1.6.0",
     "globule": "^0.2.0",
     "gulp": "^3.8.11",
-    "gulp-postcss": "^5.1.10",
+    "gulp-postcss": "^6.0.1",
     "gulp-sourcemaps": "^1.5.2",
     "gulp-tap": "^0.1.3",
     "mocha": "^2.2.1",
     "rimraf": "^2.4.3",
-    "should": "^7.1.0"
+    "should": "^8.2.1"
   }
 }
